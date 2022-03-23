@@ -1,0 +1,33 @@
+.DS_Store
+node_modules
+/dist
+/dist_prd
+/dist_dev
+/dist_staging
+/pc/dist
+/pc/dist_prd
+/pc/dist_dev
+/pc/dist_staging
+/m/dist
+/m/dist_prd
+/m/dist_dev
+/m/dist_staging
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
